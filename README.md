@@ -35,3 +35,8 @@ Darbuotojas galės:
 Sistemos sudedamosios dalys:
 1. Kliento pusė (Front-end) - bus realizuojama naudojant Blazor karkasą
 2. Serverio pusė (Back-end) - bus realizuojama naudojant .NET Core 6. Duomenų bazė: MySQL.
+
+Paveikslely pavaizduota kuriamos sistemos diegimo diagrama. Sistema bus patalptinta serveryje, kiekviena jos dalis bus tame paciame serveryje. Internetine aplikacija pasiekiama per HTTP protokolą. 
+
+![PSed_diagram](https://user-images.githubusercontent.com/79587416/192154936-b31d9cf5-cf81-4e87-b116-4efd7408dc07.png)
+
